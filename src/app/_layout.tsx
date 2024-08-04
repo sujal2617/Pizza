@@ -57,8 +57,3 @@ function RootLayoutNav() {
     </ThemeProvider>
   );
 }
-
-
-
-
-i love you 
